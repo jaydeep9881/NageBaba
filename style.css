@@ -1,0 +1,158 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.email_hover a:hover{
+	color: #2f7a8e !important;
+
+}
+.bold span{
+	font-weight: bold;
+}
+
+.menubar_margin_op li{
+	color: white !important;
+	font-weight: bold;
+	margin-left: 50px;
+}
+.menu_bg_color ul{
+	color: white !important;
+	font-weight: bold;
+	background-color:#66add4 !important;
+} 
+.menu_bg_color nav{
+	color: white !important;
+	font-weight: ;
+	background-color:#66add4 !important;
+}
+.menubar_margin_op {
+	color: white !important;
+} 
+
+.img_h_w img{
+	height: 500px;
+	width: 100%;
+ }
+
+ @media(max-width: 667px){
+ 	.img_h_w img{
+ 		height: 250px;
+ 	}
+
+ }
+ .three_line{
+ 	height: 5px;
+ 	width: 25%;
+ 	float: left;
+ 	background-color: #2f7a8e;
+ 	margin-top:10px;
+ 	border-radius: 20px;
+ 	margin-left: 15px;
+
+ }
+ .three_lineb{
+ 	height: 5px;
+ 	width: 20%;
+ 	float: left;
+ 	background-color: #2f7a8e;
+ 	margin-top: 10px;
+ 	border-radius: 20px;
+  	margin-left: 15px;
+ 	 
+ }
+ .three_linec{
+ 	height: 5px;
+ 	width: 10%;
+ 	float: left;
+ 	background-color: #2f7a8e;
+ 	margin-top: 10px;
+ 	border-radius: 20px;
+ 	margin-left: 15px;
+ }
+.icon_area_div{
+	height: 60px;
+	width: 60px;
+	background-color: #2f7a8e;
+	border-radius: 50%;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 40%;
+	 
+
+
+
+}
+.card_height{
+	height: 200px;
+}
+.font_size{
+	font-size: 40px;
+}
+.card_hover:hover{
+	background-color:#2f7a8e ;
+	color: white !important;
+}
+.card_hover .icon_area_div:hover{
+	 
+	color: white;
+}
+
+.btn_hovet:hover{
+	background-color:#2f7a8e !important ;
+	color: black !important;
+}
+.about_font h4{
+	 font-family: 'Oswald', sans-serif;
+}
+.about_font p{
+	  font-family: 'Oswald', sans-serif;
+
+}
+.about_img_height img{
+	height: 300px;
+	/*margin-top: 10%;
+	margin-left: 25%;*/
+}
+.font_size_40px{
+	font-size: 60px;
+	color: white;
+}	
+
+ 
+.font_style{
+	 font-family: 'Oswald', sans-serif !important;
+}
+.icon_area_div2{
+	height: 100px;
+	width: 100px;
+	background-color: lightpink ;
+	border-radius: 50%;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 40%;
+	border: 2px solid #2f7a8e;
+
+	 
+ }
+
+.icon_area_div2 i{
+	font-size: 70px;
+}
+
+.boxhover :hover{
+	background-color:#2f7a8e ;
+	color: white !important;
+	border-top-left-radius: 20px !important;
+	border-bottom-right-radius: 20px !important;
+	 
+	 
+}
+.boxhover{
+	border-top-left-radius: 20px !important;
+	border-bottom-right-radius: 20px !important;
+	 
+	height: 300px;
+
+}
+
+ 
