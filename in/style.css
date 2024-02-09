@@ -1,0 +1,348 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.menu2 li:hover, .menu2 li:hover a{
+	color:green !important;
+	cursor: pointer;
+
+
+}
+.button:hover{
+	color: yellow ;
+}
+.button{
+	border-radius: 20px;
+}
+.rounded{
+	
+	cursor: pointer;
+}
+.menu_logo{
+	height: 60px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 5px solid black;
+
+
+}
+
+
+
+}
+.class_color i: hover{
+color: black;
+}
+.text-white{
+	text-decoration: none;
+}
+.image{
+	height: 500px;
+}
+@media(max-width: 667px){
+	.image{
+		height: 200px;
+	}
+}
+
+.but{
+	height: 80px;
+	width: 60px;
+	border-radius: 50%;
+	background-color: grey;
+	float: left;
+	margin-top: 15%;
+}
+.but:hover{
+	background-color: black;
+}
+.worlds{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	text-align: bold;
+
+
+}
+.logo_bg{
+	height: 60px;
+	width: 60px;
+	 background-color: cyan;
+	border-radius: 50%;
+	font-size: 30px;
+	margin-left: 40%;
+	float: left;
+	
+
+	 
+}
+.loop{
+	height: 60px;
+	width: 140px;
+	border-radius: 20px;
+}
+.loop:hover{
+	background-color:cyan;
+	color: white;
+}
+
+.why_choose_us_icon{
+	height: 100px;
+	width: 100px;
+	background-color: #e2ccd0;
+	font-size: 50px;
+	text-align-last: center;
+	border-radius: 50%;
+
+
+}
+
+.why_choose_us{
+	border-radius: 30px 0px 30px 0px;
+	height: 350px;
+}
+
+.why_choose_us1{
+	border-top-left-radius: 30px !important;
+
+}
+.why_choose_us:hover{
+background-color:#13536e;
+color: white;
+}
+.why_choose_us:hover .why_choose_us1{
+	background-color:#13536e!important;
+
+}
+.transform{
+	transform-scale:(1.1,1.1);
+}
+
+/*
+.text{
+	height: 10px;
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+
+	font-weight: bold;
+	text-decoration-color: green;
+}*/
+
+
+.sturture :hover{
+	color: white;
+	background-color:#13536e;;
+	
+}
+.footer-logo{
+	height: 100px;
+
+}
+.footer_page a{
+	color: white;
+	
+	margin-top: 50px;
+}
+.foo{
+	color: white;
+}
+.backgroud1 img{
+	height: 450px;
+background-attachment: fixed;
+top: 0px;
+
+
+
+}
+.but1{
+	margin-left: 200px;
+	border-radius: 20px;
+	widows: 200px;
+}
+.icons{
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin-left: 50px;
+	background-color:#2A7C84;
+	border-radius: 50%;
+	cursor: pointer;
+}
+.icons i{
+margin-top: 15px;
+color: white;
+}
+.icons:hover{
+	background-color:  grey;
+
+	
+}
+.icons i:hover{
+color: black;
+}
+.car1{
+	border-top: 2px solid black;
+	border-bottom: 3px solid black;
+
+}
+
+.icons1{
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin-left: 10px;
+	background-color:#2A7C84;
+	border-radius: 50%;
+	cursor: pointer;
+
+
+}
+.car1{
+	border-top: 2px solid black;
+	border-bottom: 3px solid black;
+
+}
+.icons1 i{
+margin-top: 15px;
+color: white;
+}
+.icons1:hover{
+	background-color:  grey;
+
+	
+}
+.icons1 i:hover{
+color: black;
+}
+
+.icons2{
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin-left: 10px;
+	background-color:#2A7C84;
+	border-radius: 50%;
+	cursor: pointer;
+
+
+}
+.car1{
+	border-top: 2px solid black;
+	border-bottom: 3px solid black;
+
+}
+.icons2 i{
+margin-top: 15px;
+color: white;
+}
+.icons2:hover{
+	background-color:  grey;
+
+	
+}
+.icons2 i:hover{
+color: black;
+}
+
+
+.back_img1{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/chairman.jpg');
+	background-attachment:fixed;
+
+}
+.imghover img:hovar{
+	color: yellow;
+}
+.management{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/management1.jpg');
+	background-attachment: fixed;
+}
+.deposite{
+	height: 350px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/deposite1.jpg');
+
+	background-attachment: fixed;
+
+}
+.buttt button{
+	height: 30px;
+	border-radius: 50px;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: bold;
+}
+.butt button:hover{
+	background-color: red;
+
+}
+.consideration{
+
+	
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/vichardhan1.jpg');
+	background-attachment:fixed;
+
+}
+.books{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/books1.jpg');
+	background-attachment:fixed;
+}
+.pust:hover{
+	background-color: red;
+
+}
+.our_works{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/ourwork1.jpg');
+	background-attachment:fixed;
+
+}
+.service{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/sews1.png');
+	background-attachment:fixed;
+}
+.commerical{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/commerical1.jpg');
+	background-attachment:fixed;
+
+}
+.Personal_loan{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background-size: 100% 100%;
+	background-image: url('img/commerical1.jpg');
+	background-attachment:fixed;
+
+
+}
